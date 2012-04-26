@@ -12,10 +12,10 @@ example usage:
    file -
 
      - download the einstein@home binary radio pulsar (BRP) stand alone client from 
-       h	p://einstein.phys.uwm.edu/download/
+       http://einstein.phys.uwm.edu/download/
         
         - The latest non-gpu linux client at the time of this writing was at:
-          h	p://einstein.phys.uwm.edu/download/einsteinbinary_BRP4_1.22_i686-pc-linux-gnu__BRP4SSE
+          http://einstein.phys.uwm.edu/download/einsteinbinary_BRP4_1.22_i686-pc-linux-gnu__BRP4SSE
           
         - It's a little tricky to get the BOINC build to produce command line help, but it appears to 
           accept all the arguments none-the-less.  Here is the command line help, taken from the 
